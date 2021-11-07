@@ -1,0 +1,2 @@
+# suomic
+Vitsaillaan suomalaisesta ohjelmointisanastosta
